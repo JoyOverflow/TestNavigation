@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestNavigation</string>
+
+    <string name="home" translatable="false">首页</string>
+    <string name="find" translatable="false">发现</string>
+    <string name="mine" translatable="false">我的</string>
+</resources>
