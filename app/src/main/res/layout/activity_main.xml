@@ -10,7 +10,14 @@
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-    <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+
+
+    <!--
+    app:itemTextColor 导航栏中文字颜色
+    app:itemIconTint 导航栏中图片颜色
+    app:menu 布局资源
+    -->
+    <ouyj.hyena.com.bottomnavig.BottomNavigationViewEx
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
